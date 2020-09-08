@@ -1,6 +1,6 @@
 # MySQL in MS-Excel VBA
 
-# Developed by Pranav Nadimpalli, IIT Madras
+### Developed by Pranav Nadimpalli, IIT Madras
 
 Thank you for your time! I’m Pranav Nadimpalli, final year undergraduate student at IIT
 Madras.
@@ -20,6 +20,6 @@ from the ​“From Past Queries”​ menu
 ● Don’t forget to give the query a name! Type into the ​“Query Name”​ text box
 ● Click ​“Query”​ to execute the SQL query in MS-Excel
 
-## It’s a Work in Progress. Here’s a snapshot of the Latest Version:
+#### It’s a Work in Progress. Here’s a snapshot of the Latest Version:
 
-!(Capture.PNG)
+![MySQL in Microsoft Excel](/Capture.PNG)
