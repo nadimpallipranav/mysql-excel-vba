@@ -21,3 +21,5 @@ from the ​“From Past Queries”​ menu
 ● Click ​“Query”​ to execute the SQL query in MS-Excel
 
 ## It’s a Work in Progress. Here’s a snapshot of the Latest Version:
+
+!(Capture.PNG)
